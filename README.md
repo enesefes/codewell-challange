@@ -9,8 +9,8 @@ Free or paid, all templates are high quality and will make great portfolio piece
 
 We recommend using one of these two websites to deploy your projects
 
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
+
+- [Netlify](https://upbeat-heisenberg-3c8ea3.netlify.app/)
 
 They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
 
